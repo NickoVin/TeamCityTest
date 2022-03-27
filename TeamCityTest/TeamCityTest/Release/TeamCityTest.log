@@ -1,0 +1,5 @@
+﻿  TeamCityTest.cpp
+E:\1.CODE\ВУЗ\8-й семестр\ИСРПО\3-я лабораторная\TeamCityTest\TeamCityTest\TeamCityTest\TeamCityTest.cpp(7,10): error C2039: "caut": не является членом "std".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\iostream(19): message : см. объявление "std"
+E:\1.CODE\ВУЗ\8-й семестр\ИСРПО\3-я лабораторная\TeamCityTest\TeamCityTest\TeamCityTest\TeamCityTest.cpp(7,15): error C2065: caut: необъявленный идентификатор
+E:\1.CODE\ВУЗ\8-й семестр\ИСРПО\3-я лабораторная\TeamCityTest\TeamCityTest\TeamCityTest\TeamCityTest.cpp(8,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
